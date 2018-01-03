@@ -1,0 +1,70 @@
+<?xml version='1.0'?>
+
+<!DOCTYPE CSR_Report SYSTEM 'http://www.nipr.com/html/CSR_XML_Report.dtd'>
+
+<CSR_Report>
+    <CSR_Report_Header Report_Type="Company Specialized Report" Title="CSR_Jones_0_1" TimeStamp_Created="06/05/2017"/>
+    	<CSR_Report_Body>
+        	<CSR_Producer NIPR_Number="" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+        	    	    <Date_Status_Effective></Date_Status_Effective> 
+			    <License_Class>RES PRODUCER/PRODUCER FIRM</License_Class> 
+			    <License_Class_Code>1011</License_Class_Code> 
+        		    <License_Expiration_Date>02/01/2019</License_Expiration_Date> 
+        		    <License_Issue_Date>10/01/2001</License_Issue_Date> 
+			    <License_Number></License_Number> 
+        		    <License_Status>Y</License_Status>
+			    <Resident_Indicator>Y</Resident_Indicator>
+			    <State_Code></State_Code>
+			    <State_ID>68723</State_ID>
+         	</CSR_Producer>
+		
+        	<CSR_Producer NIPR_Number="41585823" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+        	    	    <Date_Status_Effective>10/01/2001</Date_Status_Effective> 
+			    <License_Class>RES PRODUCER/PRODUCER FIRM</License_Class> 
+			    <License_Class_Code>1011</License_Class_Code> 
+        		    <License_Expiration_Date>02/01/2019</License_Expiration_Date> 
+        		    <License_Issue_Date>10/01/2001</License_Issue_Date> 
+			    <License_Number></License_Number> 
+        		    <License_Status>Y</License_Status>
+			    <Resident_Indicator>Y</Resident_Indicator>
+			    <State_Code>NV</State_Code>
+			    <State_ID>68723</State_ID>
+         	</CSR_Producer>
+        	<CSR_Producer NIPR_Number="41585823" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+        	    	    <Date_Status_Effective>10/01/2001</Date_Status_Effective> 
+			    <License_Class>RES PRODUCER/PRODUCER FIRM</License_Class> 
+			    <License_Class_Code>1011</License_Class_Code> 
+        		    <License_Expiration_Date>02/01/2019</License_Expiration_Date> 
+        		    <License_Issue_Date>10/01/2001</License_Issue_Date> 
+			    <License_Number>73146</License_Number> 
+        		    <License_Status>Y</License_Status>
+			    <Resident_Indicator>Y</Resident_Indicator>
+			    <State_Code></State_Code>
+			    <State_ID>68723</State_ID>
+         	</CSR_Producer>
+        	<CSR_Producer NIPR_Number="41585823" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+        	    	    <Date_Status_Effective></Date_Status_Effective> 
+			    <License_Class>RES PRODUCER/PRODUCER FIRM</License_Class> 
+			    <License_Class_Code>1011</License_Class_Code> 
+        		    <License_Expiration_Date>02/01/2019</License_Expiration_Date> 
+        		    <License_Issue_Date>10/01/2001</License_Issue_Date> 
+			    <License_Number>73146</License_Number> 
+        		    <License_Status>Y</License_Status>
+			    <Resident_Indicator>Y</Resident_Indicator>
+			    <State_Code>NV</State_Code>
+			    <State_ID>68723</State_ID>
+         	</CSR_Producer>
+        	<CSR_Producer NIPR_Number="41585823" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+        	    	    <Date_Status_Effective>10/01/2001</Date_Status_Effective> 
+			    <License_Class>RES PRODUCER/PRODUCER FIRM</License_Class> 
+			    <License_Class_Code>1011</License_Class_Code> 
+        		    <License_Expiration_Date>02/01/2019</License_Expiration_Date> 
+        		    <License_Issue_Date>10/01/2001</License_Issue_Date> 
+			    <License_Number>73146</License_Number> 
+        		    <License_Status>Y</License_Status>
+			    <Resident_Indicator>Y</Resident_Indicator>
+			    <State_Code>NV</State_Code>
+			    <State_ID>68723</State_ID>
+         	</CSR_Producer>
+    </CSR_Report_Body>
+</CSR_Report>
